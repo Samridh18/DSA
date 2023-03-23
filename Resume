@@ -1,0 +1,139 @@
+<html>
+<head>
+<title>RESUME</title> 
+</head>
+<body>
+<h1><center>RESUME</h1></center>
+<marquee><h3>Open to Work!</h3></marquee>
+<div id="header">
+<hr>
+<p id="name">Samridh Mishra</p>
+<a href="mailto:samridhmis07@gmail.com" target="_blank"><p id="email">samridhmis07@gmail.com</p></a>
+<a href="phoneto:+917060831009" target="_blank"><p id="email">+917060831009</p></a>
+</div>
+<div class="left">
+</div>
+<div class="right">
+<h3>CV Highlights</h3>
+<p>
+<ul>
+<li>Currently Pre-final year engineering student working on JAVA and looking for internship opportunites and also have basic understaning Web Application Engineering and Structure & Interpretation of Computer Programs</li>
+<li>Learnt basic Python, JavaScript, HTML, CSS.</li>
+<li>An independent, dedicated, efficient person. These attributes are proved through the series of courses I have taken or I am taking as of now independently through online platforms.</li>
+<li>Good Communication Skills, Presentation Skills, attitude towards leadership, authorisation and delegation, conflict resolution and negotiation and a very good team worker.</li></ul>
+</p>
+<h3>Professional Experience</h3>
+<h4 id="company-name">PreGrad</h4>
+<p id="job-title"><strong>Marketing Intern</strong></p>
+<p id="job-responsibilities">Job Responsbilities</p>
+<p>
+<ul>
+<li>Was part of the Marketing & Strategy team</li>
+<li>Promoted the company at community level through Social Media</li>
+<li>Contribute ideas to the team on how customers can be delighted</li></ul>
+</p>
+<h3>Educational Qualifications</h3>
+<table>
+<tr id="heading">
+<td>Qualification</td>
+<td>Board</td>
+<td>Percentage</td>
+<td>Year</td>
+</tr>
+<tr>
+<td>X</td>
+<td>DPS Ranipur</td>
+<td>70.60%</td>
+<td>2018</td>
+</tr>
+<tr>
+<td>XII</td>
+<td>Dr Hariram Arya IC Mayapur</td>
+<td>68.20%</td>
+<td>2020</td>
+</tr>
+<tr>
+<td>B.TECH(CSE)</td>
+<td>KCC ITM, Gr Noida</td>
+<td>63.69%</td>
+<td>2024</td>
+</tr>
+</table>
+<h3>Independent Courses</h3>
+            <p>
+            <ul>
+                <li>
+                <span id="course-name">Web Development</span> – YHills.com</li>
+                <li>
+                <span id="course-name">Python – Fundamentals and Dynamic Programming</span> - IIT Kanpur</li>
+                <li>
+                <span id="course-name">JavaScript</span> - Hackerrank.com</li>
+                <li>
+                <span id="course-name">Young Product Manager</span> - ProTeen</li>
+                <li>
+                <span id="course-name">Introduction to C++</span> - Codingninjas.com</li>
+               
+</ul>
+<h3>Technical Skills</h3>
+<p>
+<ul>
+<li>
+<span id="course-name">Operating Systems:</span> DOS, Windows OS, Macintosh Computers (OS X), Linux (Ubuntu)</li>
+                <li>
+                <span id="course-name">Application Software:</span> MS Office, Libre Office</li>
+                <li>
+                <span id="course-name">Programming Skills:</span>HTML, CSS, Python, JavaScript, C/C++, JAVA</li>
+                <li>
+                <span id="course-name">Databases:</span>MySQL</li></ul>
+            </p>
+            <h3>Extra Curriculars:</h3>
+            <p>
+            <ul>
+                <li>Co-ordinator of KCCITM Art & Craft Society(Let's Doodle).</li>
+                <li>Member of KCCITM Dance Soceity(Sway).</li>
+                <li>Participated in KCCITM Hackathon powered by Hackerrank.</li></ul>
+            </p>
+            <h3>Personal Information:</h3>
+            <p>
+            <ul>
+                <li>
+                A young, determined hard and smart working person. I believe in task based roles and complete ownership of work.
+                <li>
+                <span id="course-name">Languages Known:</span>English, Hindi</li>
+                <li>
+                <span id="course-name">Hobbies:</span>I love reading Business and IT magazines, swimming, listening music, surfing Internet, self-learning through e-courses.</li> 
+                <li>
+                <span id="course-name">Area of Interest:</span>Software Development, Programming, Start-ups, Coding, App Development, Technical Support, Support Engineer, Business Analysis</li></ul>
+            </p>
+<section class="contact" id="contact">
+<div class="max-width">
+<hr>
+<h2 class="title">CONTACT ME</h2>
+<br>
+<div class="fields">
+<div class="field name">
+<input type="text" placeholder="Name" required>
+</div>
+<br>
+<div class="field email">
+<input type="email" placeholder="Email" required>
+</div>
+</div>
+<br>
+<div class="field">
+<input type="text" placeholder="Subject" required>
+</div>
+<br>
+<div class="field textarea">
+<textarea cols="30" rows="10" placeholder="Message.." required></textarea>
+</div>
+<br>
+<div class="button-area">
+<button type="submit">Send message</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</body>
+</html>
